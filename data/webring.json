@@ -1,10 +1,5 @@
 [
   {
-    "name": "Islamische Zeitung",
-    "url": "https://islamische-zeitung.de/",
-    "owner": "IZ Medien GmbH"
-  },
-  {
     "name": "Dreinblick",
     "url": "https://www.dreinblick.com/",
     "owner": "?"
@@ -15,9 +10,9 @@
     "owner": "Chadidscha (Christine) Berner"
   },
   {
-    "name": "Akif Şahin",
-    "url": "https://www.akifsahin.de/",
-    "owner": "Akif Şahin"
+    "name": "Islamische Zeitung",
+    "url": "https://islamische-zeitung.de/",
+    "owner": "IZ Medien GmbH"
   },
   {
     "name": "Flügelwind",
